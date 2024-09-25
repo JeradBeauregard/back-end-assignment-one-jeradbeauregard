@@ -10,8 +10,8 @@ namespace assignmentone_jeradbeauregard.Controllers
         /// <summary>
         /// Takes two user inputs from the end route to determine the amount of small and large SquashFellows ordered.
         /// </summary>
-        /// <param name="small"></param>
-        /// <param name="large"></param>
+        /// <param name="small">the ammount of small squashfellows ordered</param>
+        /// <param name="large">the ammount of large squashfellows ordered</param>
         /// <example>
         /// http://localhost:5066/api/q8/100,100 -> 100 Small @ $25.50 = $$2,550.00; 100 Large @ $40.50 = $$4,050.00; Subtotal = $6,600.00; Tax = $$858.00 HST; Total = $$7,458.00
         /// http://localhost:5066/api/q8/1,1 -> 1 Small @ $25.50 = $$25.50; 1 Large @ $40.50 = $$40.50; Subtotal = $66.00; Tax = $$8.58 HST; Total = $$74.58

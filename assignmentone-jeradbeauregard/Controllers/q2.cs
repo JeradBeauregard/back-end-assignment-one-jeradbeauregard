@@ -13,10 +13,11 @@ namespace assignmentone_jeradbeauregard.Controllers
         ///public string helloName(string userName)
         ///      takes username variable as a parameter for method helloName  
         /// </summary>
+        /// <param name="userName">Takes and inputed username</param>
         ///<example>
         ///"http://localhost:5066/api/q2/greetings/Jerad" -> Hello Jerad
         /// </example>
-        /// <returns>"Hello" + userName</returns>
+        /// <returns>the message Hello and then the inputed username</returns>
         [HttpGet(template: "greetings/{userName}")]
 
         public string helloName(string userName)

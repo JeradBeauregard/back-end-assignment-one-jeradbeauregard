@@ -13,9 +13,9 @@ namespace assignmentone_jeradbeauregard.Controllers
         /// subracts days from the current time...
         /// days added or subtracted are based on the user input.
         /// </summary>
-        /// <param name="days"></param>
+        /// <param name="days">the amount of days to be added or subtracted from the current date</param>
         /// <returns>
-        /// 
+        /// the current date plus or minus the amount of days input
         /// </returns>
         [HttpGet(template:"{days}")]
 

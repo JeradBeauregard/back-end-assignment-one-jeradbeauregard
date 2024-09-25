@@ -10,8 +10,9 @@ namespace assignmentone_jeradbeauregard.Controllers
         /// <summary>
         /// Post request http://localhost:5066/api/q4/knockknock -> Who's There?
         /// </summary>
+        /// 
         /// <returns>
-        /// Who's There?
+        /// the message Who's There?
         /// </returns>
         [HttpPost(template: "knockknock")]
 

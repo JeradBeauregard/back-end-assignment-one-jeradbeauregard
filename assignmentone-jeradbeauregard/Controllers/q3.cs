@@ -8,7 +8,7 @@ namespace assignmentone_jeradbeauregard.Controllers
     public class q3 : ControllerBase
     {
         /// <summary>
-        /// Takes number input from the url and cubes it.
+        /// Takes number input from the url end route and cubes it.
         ///
         /// </summary>
         /// <param name="userNum">the number to cube</param>
@@ -17,6 +17,7 @@ namespace assignmentone_jeradbeauregard.Controllers
         /// http://localhost:5066/api/q3/cube/-4 -> -64
         /// http://localhost:5066/api/q3/cube/10 -> 1000
         /// </example>
+        /// <returns>returns a cubed number based on the input number</returns>
         /// 
         [HttpGet(template:"cube/{userNum}")]
 

@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{B4DA4446-2A09-4B8C-98B0-3ABADFF70770}|assignmentone-jeradbeauregard.csproj|solutionrelative:controllers\\q7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B4DA4446-2A09-4B8C-98B0-3ABADFF70770}|assignmentone-jeradbeauregard.csproj|c:\\users\\jerad\\desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\controllers\\q6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DA4446-2A09-4B8C-98B0-3ABADFF70770}|assignmentone-jeradbeauregard.csproj|solutionrelative:controllers\\q6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4DA4446-2A09-4B8C-98B0-3ABADFF70770}|assignmentone-jeradbeauregard.csproj|c:\\users\\jerad\\desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\controllers\\q5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4DA4446-2A09-4B8C-98B0-3ABADFF70770}|assignmentone-jeradbeauregard.csproj|solutionrelative:controllers\\q5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4DA4446-2A09-4B8C-98B0-3ABADFF70770}|assignmentone-jeradbeauregard.csproj|c:\\users\\jerad\\desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\controllers\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4DA4446-2A09-4B8C-98B0-3ABADFF70770}|assignmentone-jeradbeauregard.csproj|solutionrelative:controllers\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4DA4446-2A09-4B8C-98B0-3ABADFF70770}|assignmentone-jeradbeauregard.csproj|c:\\users\\jerad\\desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\controllers\\q6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4DA4446-2A09-4B8C-98B0-3ABADFF70770}|assignmentone-jeradbeauregard.csproj|solutionrelative:controllers\\q6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +42,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "q1.cs",
+              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\Controllers\\q1.cs",
+              "RelativeDocumentMoniker": "Controllers\\q1.cs",
+              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\Controllers\\q1.cs",
+              "RelativeToolTip": "Controllers\\q1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:55:25.979Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -52,7 +66,7 @@
               "RelativeDocumentMoniker": "Controllers\\q8.cs",
               "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\Controllers\\q8.cs",
               "RelativeToolTip": "Controllers\\q8.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAACfAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA0AAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T16:47:04.441Z",
               "EditorCaption": ""
@@ -65,86 +79,74 @@
               "RelativeDocumentMoniker": "Controllers\\q7.cs",
               "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\Controllers\\q7.cs",
               "RelativeToolTip": "Controllers\\q7.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T16:18:20.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "q6.cs",
               "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\Controllers\\q6.cs",
               "RelativeDocumentMoniker": "Controllers\\q6.cs",
               "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\Controllers\\q6.cs",
               "RelativeToolTip": "Controllers\\q6.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBAAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxQAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T16:00:23.388Z"
+              "WhenOpened": "2024-09-25T16:00:23.388Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "q5.cs",
               "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\Controllers\\q5.cs",
               "RelativeDocumentMoniker": "Controllers\\q5.cs",
               "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\Controllers\\q5.cs",
               "RelativeToolTip": "Controllers\\q5.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T15:43:17.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "q4.cs",
               "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\Controllers\\q4.cs",
               "RelativeDocumentMoniker": "Controllers\\q4.cs",
               "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\Controllers\\q4.cs",
               "RelativeToolTip": "Controllers\\q4.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T15:29:04.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "q3.cs",
               "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\Controllers\\q3.cs",
               "RelativeDocumentMoniker": "Controllers\\q3.cs",
               "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\Controllers\\q3.cs",
               "RelativeToolTip": "Controllers\\q3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T00:34:16.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "q2.cs",
               "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\Controllers\\q2.cs",
               "RelativeDocumentMoniker": "Controllers\\q2.cs",
               "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\Controllers\\q2.cs",
               "RelativeToolTip": "Controllers\\q2.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T00:09:25.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "q1.cs",
-              "DocumentMoniker": "C:\\Users\\jerad\\Desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\Controllers\\q1.cs",
-              "RelativeDocumentMoniker": "Controllers\\q1.cs",
-              "ToolTip": "C:\\Users\\jerad\\Desktop\\back-end-assignment-one-jeradbeauregard\\assignmentone-jeradbeauregard\\Controllers\\q1.cs",
-              "RelativeToolTip": "Controllers\\q1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T23:55:25.979Z",
               "EditorCaption": ""
             }
           ]

@@ -9,8 +9,11 @@ namespace assignmentone_jeradbeauregard.Controllers
     {
 
         /// <summary>
-        /// GET "http://localhost:5066/api/q1/welcome"
+        /// 
         /// calls welcomeMessage method which returns a string value of "Welcome"
+        /// <example>
+        /// GET "http://localhost:5066/api/q1/welcome" -> Welcome to 5152
+        /// </example>
         /// </summary>
         /// <returns>"Welcome to 5125"</returns>
         [HttpGet(template:"welcome")]

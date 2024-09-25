@@ -11,13 +11,14 @@ namespace assignmentone_jeradbeauregard.Controllers
         /// Takes an input from the end route as a value of the side of a hexagon
         /// uses the hexagonArea method to output the area of the hexagon
         /// </summary>
-        /// <param name="side"></param>
-        /// <returns>
+        /// <param name="side">the input side length of a hexagon</param>
+        /// <example>
         /// http://localhost:5066/api/q6/1 -> 2.598076211353316
         /// http://localhost:5066/api/q6/1.5 -> 5.845671475544961
         /// http://localhost:5066/api/q6/20 -> 1039.2304845413264
         /// 
-        /// </returns>
+        /// </example>
+        /// <returns>The area of a hexagon based on the input side length</returns>
         [HttpGet(template:"{side}")]
 
         public double hexagaonArea(double side)
