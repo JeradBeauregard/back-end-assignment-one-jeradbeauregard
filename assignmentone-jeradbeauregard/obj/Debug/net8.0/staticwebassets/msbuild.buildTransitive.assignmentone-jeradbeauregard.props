@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\assignmentone-jeradbeauregard.props" />
+</Project>
